@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { AppealFormData } from '@/types/AppealFormData';
+
 
 type Props = {
   step: number;
