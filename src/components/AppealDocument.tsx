@@ -1,7 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import { AppealFormData } from '@/app/page';
+import { AppealFormData } from '@/types/AppealFormData';
+
 
 type Props = {
   formData: AppealFormData;
